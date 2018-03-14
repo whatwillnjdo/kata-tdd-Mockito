@@ -37,9 +37,9 @@ The PetStore have two functionalities
 
 ## Stage 2
 <b>Goal:</b>
-1) Create a Class PetStoreDAO which can query the database.
+1) Create a class PetStoreDAO which can query the database.
 2) Create a method which should query the database for a breed Name and return a list of dogs.
-3)Create a connection to use HSQL(In memory DB). File provided as part of solution.
+3) Create a connection to use HSQL(In memory DB). File provided as part of solution.
   
      Note:- The Default User Name and Password for HSQL DB  
      User Name – sa
@@ -55,7 +55,7 @@ The PetStore have two functionalities
 
 ## Stage 3
 <b>Goal:</b>
-1) Create a Class PetStore
+1) Create a class PetStore
 2) This will accept a list of Dogs.
 3) Create a method doesStoreNeedToBuyThisBreed . 
    This method will take a breed name, age and price. 
